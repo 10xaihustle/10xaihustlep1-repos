@@ -1,0 +1,21 @@
+{
+    "name": "10x AI Hustle P1",
+    "slug": "10x-ai-hustle-p1",
+    "description": "AI-generated 10x AI Hustle P1 application",
+    "version": "1.0.0",
+    "category": "saas",
+    "database": {
+        "required": true,
+        "schema_file": "schema.sql",
+        "tables": [
+            "users"
+        ]
+    },
+    "config_file": "config.php",
+    "default_credentials": {
+        "email": "admin",
+        "password": "admin123"
+    },
+    "generated_by": "ai_code_builder",
+    "generated_at": "2026-05-01 17:28:09"
+}
